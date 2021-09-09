@@ -1,2 +1,1 @@
-# accenture-advanced-analytics
-[Product Analytics]
+# Accenture Advanced Analytics
