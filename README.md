@@ -7,3 +7,5 @@ I am a Senior Data Scientist in Strategy & Consulting and Applied Intelligence a
 ![image](https://user-images.githubusercontent.com/19508013/134794287-e634a64f-8dac-4237-a48e-4295cf051d68.jpg)
 
 ![FullSizeRender](https://user-images.githubusercontent.com/19508013/139507374-d4e9ddd9-985e-4786-9113-a901da8412c5.jpeg)
+
+![IMG_3761](https://user-images.githubusercontent.com/19508013/139738844-292db33f-5550-4664-9bd7-c45bcb6aaa6f.jpeg)
