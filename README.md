@@ -16,6 +16,8 @@ I am a Senior Product Data Scientist in Strategy & Consulting and Applied Intell
 
 <img width="1237" alt="Screen Shot 2021-12-02 at 12 22 36 PM" src="https://user-images.githubusercontent.com/19508013/144502725-8ef61fc1-42db-4b38-b371-e09838940cff.png">
 
+<img width="1237" alt="Screen Shot 2021-12-02 at 12 22 56 PM" src="https://user-images.githubusercontent.com/19508013/144502809-670490eb-0956-43fd-90ed-4e6c8ba0cd1d.png">
+
 <img width="1237" alt="Screen Shot 2021-12-02 at 12 23 41 PM" src="https://user-images.githubusercontent.com/19508013/144502823-7f438a62-462f-4ebe-89f5-a6beafd0b6b4.png">
 
 <img width="1237" alt="Screen Shot 2021-12-02 at 12 23 55 PM" src="https://user-images.githubusercontent.com/19508013/144502830-065bfd2d-efd2-4958-9383-59f83244d10d.png">
@@ -35,8 +37,6 @@ I am a Senior Product Data Scientist in Strategy & Consulting and Applied Intell
 <img width="1237" alt="Screen Shot 2021-12-02 at 12 25 27 PM" src="https://user-images.githubusercontent.com/19508013/144502851-7007f6de-7844-4b6a-b4c2-bd55b0acdd63.png">
 
 <img width="1237" alt="Screen Shot 2021-12-02 at 12 26 18 PM" src="https://user-images.githubusercontent.com/19508013/144502853-7d8f6bd2-6406-491b-bbcb-fe9a1f120e34.png">
-
-<img width="1237" alt="Screen Shot 2021-12-02 at 12 22 56 PM" src="https://user-images.githubusercontent.com/19508013/144502809-670490eb-0956-43fd-90ed-4e6c8ba0cd1d.png">
 
 <img width="1237" alt="Screen Shot 2021-12-02 at 1 00 16 PM" src="https://user-images.githubusercontent.com/19508013/144502957-23a48613-849c-4575-a554-f9d3ba2a93d5.png">
 
