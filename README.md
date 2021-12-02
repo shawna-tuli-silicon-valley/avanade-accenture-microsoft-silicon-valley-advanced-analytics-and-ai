@@ -2,7 +2,7 @@
 
 I am a Senior Product Data Scientist in Strategy & Consulting and Applied Intelligence at Accenture in San Jose.
 
-∙ [Shawna Tuli Penn Medicine Radiation Oncology Analytics PowerPoint](https://github.com/shawnatuli/uci-ics-penn-medicine-radiation-oncology-analytics/blob/main/Shawna%20Tuli%20Penn%20Medicine%20Radiation%20Oncology%20Analytics.pdf)
+∙ [Shawna Tuli Penn Medicine Radiation Oncology Analytics PowerPoint](https://github.com/shawnatuli/accenture-sj-advanced-analytics/blob/main/Shawna%20Tuli%20Penn%20Medicine%20Radiation%20Oncology%20Analytics.pdf)
 
 ∙ [Shawna Tuli - Google Scholar](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en&oi=sra) 
 
