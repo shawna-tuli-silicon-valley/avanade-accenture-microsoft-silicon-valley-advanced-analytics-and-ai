@@ -26,8 +26,8 @@ I am a Senior Product Data Scientist in Strategy & Consulting and Applied Intell
 
 <img width="1237" alt="Screen Shot 2021-12-02 at 12 23 55 PM" src="https://user-images.githubusercontent.com/19508013/144502830-065bfd2d-efd2-4958-9383-59f83244d10d.png">
 
-<img width="1237" alt="Screen Shot 2021-12-03 at 4 22 25 PM" src="https://user-images.githubusercontent.com/19508013/144688863-57e8692c-b518-46a8-9a0d-11df04a25b62.png">
-#
+<img width="1237" alt="Screen Shot 2021-12-03 at 4 27 42 PM" src="https://user-images.githubusercontent.com/19508013/144689084-41ef4010-fe96-40df-b7fc-527b85eed69c.png">
+
 <img width="1237" alt="Screen Shot 2021-12-02 at 12 24 06 PM" src="https://user-images.githubusercontent.com/19508013/144502832-45d4bec0-c2c0-46f1-8068-fe713cf92b05.png">
 
 <img width="1237" alt="Screen Shot 2021-12-02 at 12 24 17 PM" src="https://user-images.githubusercontent.com/19508013/144502834-d9d2274f-c576-494e-bfc1-59d541d5bee3.png">
