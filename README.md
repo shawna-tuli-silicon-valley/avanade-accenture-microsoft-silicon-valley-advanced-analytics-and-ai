@@ -1,6 +1,6 @@
-# Accenture Advanced Analytics 🧡💜
+# Avanade Advanced Analytics 🧡💜
 
-I am a Senior Product Data Scientist in Strategy & Consulting and Applied Intelligence at Accenture in San Jose.
+I am a Senior Product Data Scientist in Strategy & Consulting and Applied Intelligence at Avanade in San Jose.
 
 ∙ [Shawna Tuli Penn Medicine Radiation Oncology Analytics PowerPoint](https://github.com/shawnatuli/accenture-sj-advanced-analytics/blob/main/Shawna%20Tuli%20Penn%20Medicine%20Radiation%20Oncology%20Analytics%20PowerPoint.pdf)
 
