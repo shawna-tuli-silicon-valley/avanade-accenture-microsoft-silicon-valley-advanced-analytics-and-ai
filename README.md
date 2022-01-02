@@ -16,7 +16,7 @@ Avanade is the Accenture Microsoft Business Group with parents Accenture and Mic
 
 # Presentation
 
-<img width="1237" alt="Screen Shot 2021-12-02 at 12 21 40 PM" src="https://user-images.githubusercontent.com/19508013/144502683-5cdc491d-6013-404e-98d5-1588cf59b87a.png">
+![SnipImage](https://user-images.githubusercontent.com/19508013/147886044-3987b8bb-e888-490c-abee-b696d9f1b5d2.JPG)
 
 <img width="1237" alt="Screen Shot 2021-12-02 at 12 22 03 PM" src="https://user-images.githubusercontent.com/19508013/144502705-752bf955-e804-4762-976c-e74308697be3.png">
 
