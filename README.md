@@ -1,6 +1,6 @@
 # Avanade Advanced Analytics 🧡💜
 
-I am a Senior Product Data Scientist in Strategy & Consulting and Applied Intelligence at Avanade in San Jose.
+I am a Senior Product Data Scientist and ML Engineer in Applied Intelligence at Avanade in San Jose.
 
 Avanade is the Accenture Microsoft Business Group with parents Accenture and Microsoft.
 
