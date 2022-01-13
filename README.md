@@ -14,7 +14,7 @@ Avanade is the Accenture Microsoft Business Group with parents Accenture and Mic
 4. Northern California Community Co-Captain for the South Bay Area and Social Committee
 5. Applied Intelligence Relationship Team with UCI's Data Capstone program as an alumna
 6. Lead Product Data Scientist and ML Engineer at Fortune 500 Tax Company
-7. Mentor of a Cal Poly Cybersecurity undergraduate and an UC Berkeley Data Science summer intern
+7. Mentor of a Cal Poly Cybersecurity summer intern and an UC Berkeley Data Science summer intern
 8. Engineering Manager, and Product Data Scientist / Data Engineer at Private Foundation with $49.8B in assets
 9. Analytics and Modeling Lead at Fortune 500 Technology Company
 10. Full Stack Developer at Fortune 500 Coffee Company
