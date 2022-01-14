@@ -9,7 +9,7 @@ Avanade is the Accenture Microsoft Business Group with parents Accenture and Mic
 ∙ [Shawna Tuli - Google Scholar](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en&oi=sra) 
 
 1. Fortune 500 Technology Company
-2. Lead Product Data Scientist and ML Engineer at Accenture CIO
+2. Data Science Manager, Lead Product Data Scientist and ML Engineer at Accenture CIO
 3. Presenter at Advanced Analytics' All-hands and Accenture CIO's Data Science Guild
 4. Northern California Community Co-Captain for the South Bay Area and Social Committee
 5. Applied Intelligence Relationship Team with UCI's Data Capstone program as an alumna
