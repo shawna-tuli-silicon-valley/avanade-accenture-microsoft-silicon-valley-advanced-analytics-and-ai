@@ -1,6 +1,6 @@
 # Avanade Advanced Analytics 🧡💜
 
-I am a Consultant in Advanced Analytics at Avanade in the Bay Area.
+I am a Consultant in Advanced Analytics at Avanade in Silicon Valley.
 
 Avanade is the Accenture Microsoft Business Group with parents Accenture and Microsoft.
 
