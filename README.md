@@ -15,7 +15,8 @@ Avanade is the Accenture Microsoft Business Group with parents Accenture and Mic
 9. Engineering Manager, and Product Data Scientist / Data Engineer at Private Foundation with $49.8B in assets
 10. Analytics and Modeling Lead at Fortune 500 Technology Company
 11. Full Stack Developer at Fortune 500 Coffee Company
-12. [Shawna Tuli - Google Scholar](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en&oi=sra) 
+12. Harvard Business Review Advisory Council member
+13. [Shawna Tuli - Google Scholar](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en&oi=sra) 
 
 ![203598188_1121816651643809_6098019265410920860_n](https://user-images.githubusercontent.com/19508013/132880888-f6fcf3fd-0a60-4a29-a69f-5ba1dc354613.jpeg)
 
