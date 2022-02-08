@@ -24,6 +24,8 @@ Avanade is the Accenture Microsoft Business Group with parents Accenture and Mic
 
 ![UCI ML Graduate Class 11 16](https://user-images.githubusercontent.com/19508013/143958224-275d1bba-d3c0-43ae-b342-25e1af25e21f.jpg)
 
+![image](https://user-images.githubusercontent.com/19508013/152893730-7a6cd5aa-a144-406a-927a-f8467ac11527.png)
+
 ![FullSizeRender](https://user-images.githubusercontent.com/19508013/139507374-d4e9ddd9-985e-4786-9113-a901da8412c5.jpeg)
 
 # Presentation
