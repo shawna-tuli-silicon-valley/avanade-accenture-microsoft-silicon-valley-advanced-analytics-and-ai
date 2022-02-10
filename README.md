@@ -13,7 +13,7 @@ Avanade is the Accenture Microsoft Business Group with parents Accenture and Mic
 7. Accenture Applied Intelligence Team with UCI's Data Science Capstone as an alumna
 8. Lead Product Data Scientist and ML Engineer at Fortune 500 Tax Company
 9. Mentor of Cal Poly Cybersecurity and UC Berkeley Data Science summer interns
-10. Engineering Manager, and Product Data Scientist / Data Engineer at Private Foundation with $49.8B in assets
+10. Engineering Manager, and Product Data Scientist / Engineer at Private Foundation with $49.8B in assets
 11. Analytics and Modeling Lead at Fortune 500 Technology Company
 12. Full Stack Developer at Fortune 500 Coffee Company
 13. Harvard Business Review Advisory Council member
