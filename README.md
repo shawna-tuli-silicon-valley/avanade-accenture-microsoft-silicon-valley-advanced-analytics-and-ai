@@ -7,16 +7,17 @@ Avanade is the Accenture Microsoft Business Group with parents Accenture and Mic
 1. Product Strategy and Analytics Manager at Fortune 100 Internet Company
 2. Northern California Community Co-Captain for the South Bay Area and Social Committee
 3. Accenture Applied Intelligence Primary Technical Contact for UCI's Data Science Capstone
-4. Data Science Manager, and Lead Product Data Scientist and ML Engineer at Accenture CIO
-5. Presenter at Advanced Analytics' All-hands and Accenture CIO's Data Science Guild
-6. Accenture Applied Intelligence Team with UCI's Data Science Capstone as an alumna
-7. Lead Product Data Scientist and ML Engineer at Fortune 500 Tax Company
-8. Mentor of Cal Poly Cybersecurity and UC Berkeley Data Science summer interns
-9. Engineering Manager, and Product Data Scientist / Data Engineer at Private Foundation with $49.8B in assets
-10. Analytics and Modeling Lead at Fortune 500 Technology Company
-11. Full Stack Developer at Fortune 500 Coffee Company
-12. Harvard Business Review Advisory Council member
-13. [Shawna Tuli - Google Scholar](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en&oi=sra) 
+4. Speaker at UCI Accenture Information Session
+5. Data Science Manager, and Lead Product Data Scientist and ML Engineer at Accenture CIO
+6. Presenter at Advanced Analytics' All-hands and Accenture CIO's Data Science Guild
+7. Accenture Applied Intelligence Team with UCI's Data Science Capstone as an alumna
+8. Lead Product Data Scientist and ML Engineer at Fortune 500 Tax Company
+9. Mentor of Cal Poly Cybersecurity and UC Berkeley Data Science summer interns
+10. Engineering Manager, and Product Data Scientist / Data Engineer at Private Foundation with $49.8B in assets
+11. Analytics and Modeling Lead at Fortune 500 Technology Company
+12. Full Stack Developer at Fortune 500 Coffee Company
+13. Harvard Business Review Advisory Council member
+14. [Shawna Tuli - Google Scholar](https://scholar.google.com/citations?user=72mqLEoAAAAJ&hl=en&oi=sra) 
 
 ![203598188_1121816651643809_6098019265410920860_n](https://user-images.githubusercontent.com/19508013/132880888-f6fcf3fd-0a60-4a29-a69f-5ba1dc354613.jpeg)
 
