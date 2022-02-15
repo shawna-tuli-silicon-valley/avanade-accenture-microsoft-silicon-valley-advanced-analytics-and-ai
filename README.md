@@ -4,7 +4,7 @@ I am a Consultant in Advanced Analytics at Avanade in Silicon Valley.
 
 Avanade is the Accenture Microsoft Business Group with parents Accenture and Microsoft.
 
-1. Product Strategy and Analytics Manager at Fortune 100 Internet Company
+1. Product Growth Analytics Manager at Fortune 100 Internet Company
 2. Northern California Community Co-Captain for the South Bay Area and Social Committee
 3. Accenture Applied Intelligence Primary Technical Contact for UCI's Data Science Capstone
 4. Speaker at Accenture UCI Information Session
