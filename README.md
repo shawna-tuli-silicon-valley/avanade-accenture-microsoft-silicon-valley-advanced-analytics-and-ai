@@ -4,19 +4,10 @@ I am a Consultant in Advanced Analytics at Avanade in Silicon Valley.
 
 Avanade is the Accenture Microsoft Business Group with parents Accenture and Microsoft.
 
-1. Product Growth Analytics Manager at Fortune 100 Internet Company
-2. Northern California Community Co-Captain for the South Bay Area and Social Committee
-3. Accenture Applied Intelligence Primary Technical Contact for UCI's Data Science Capstone
-4. Speaker at Accenture UCI Information Session
-5. Data Science Manager, and Lead Product Data Scientist and ML Engineer at Accenture CIO
-6. Presenter at Advanced Analytics' All-hands and Accenture CIO's Data Science Guild
-7. Accenture Applied Intelligence Team with UCI's Data Science Capstone as an alumna
-8. Lead Product Data Scientist and ML Engineer at Fortune 500 Tax Company
-9. Mentor of Cal Poly Cybersecurity and UC Berkeley Data Science summer interns
-10. Engineering Manager, and Product Data Scientist / Engineer at Private Foundation with $49.8B in assets
-11. Analytics and Modeling Lead at Fortune 500 Technology Company
-12. Full Stack Developer at Fortune 500 Coffee Company
-13. Harvard Business Review Advisory Council member 
+1. Product Growth Analytics Manager at Google
+2. Northern California Community Co-Captain for the South Bay Area
+3. Accenture Applied Intelligence Technical Contact for UCI's Data Science Capstone
+4. Harvard Business Review Advisory Council
 
 ![203598188_1121816651643809_6098019265410920860_n](https://user-images.githubusercontent.com/19508013/132880888-f6fcf3fd-0a60-4a29-a69f-5ba1dc354613.jpeg)
 
