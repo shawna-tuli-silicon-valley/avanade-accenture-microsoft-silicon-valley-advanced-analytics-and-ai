@@ -20,4 +20,4 @@ Shawna is a great asset to our project team and I encourage Shawna to continue h
 
 ∙ [UC Davis SQL for Data Science Certificate](https://www.coursera.org/account/accomplishments/verify/TG58RPJKTBB9?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 
-[Coursera TG58RPJKTBB9.pdf](https://github.com/shawnatuli/avanade-silicon-valley-advanced-analytics/files/8330053/Coursera.TG58RPJKTBB9.pdf)
+<img width="493" alt="Capture" src="https://user-images.githubusercontent.com/19508013/159632117-c463fd76-7d27-4cc4-b18c-d2f8805a08cd.PNG">
