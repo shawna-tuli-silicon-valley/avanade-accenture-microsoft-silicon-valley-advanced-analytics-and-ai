@@ -18,6 +18,6 @@ Shawna is a great asset to our project team and I encourage Shawna to continue h
 ∙ [Kellogg Executive Education Certificate in Leading with Analytics and Artificial Intelligence](https://execedcertificate.kellogg.northwestern.edu/308a9e71-d504-4194-9c74-22667c48e450#gs.utv39r)
 ![image](https://user-images.githubusercontent.com/19508013/152852341-1def1c3b-7565-41f4-a6a8-028fe3e6aa46.png)
 
-∙ [UC Davis SQL for Data Science Certificate](https://www.coursera.org/account/accomplishments/verify/TG58RPJKTBB9?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
+∙ [UC Davis Certificate in SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/TG58RPJKTBB9?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 
 ![CERTIFICATE_LANDING_PAGE_TG58RPJKTBB9](https://user-images.githubusercontent.com/19508013/159632614-12e67ed3-5527-4a35-b9e3-6d5460f80cf4.jpeg)
