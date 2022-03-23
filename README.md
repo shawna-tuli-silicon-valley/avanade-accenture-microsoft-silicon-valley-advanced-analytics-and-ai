@@ -15,4 +15,6 @@ Shawna is a great asset to our project team and I encourage Shawna to continue h
 
 ![203598188_1121816651643809_6098019265410920860_n](https://user-images.githubusercontent.com/19508013/132880888-f6fcf3fd-0a60-4a29-a69f-5ba1dc354613.jpeg)
 
+[Kellogg Executive Education Certificate in Leading with Analytics and Artificial Intelligence](https://execedcertificate.kellogg.northwestern.edu/308a9e71-d504-4194-9c74-22667c48e450#gs.utv39r)
 ![image](https://user-images.githubusercontent.com/19508013/152852341-1def1c3b-7565-41f4-a6a8-028fe3e6aa46.png)
+
