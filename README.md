@@ -20,4 +20,4 @@ Shawna is a great asset to our project team and I encourage Shawna to continue h
 
 ∙ [UC Davis SQL for Data Science Certificate](https://www.coursera.org/account/accomplishments/verify/TG58RPJKTBB9?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 
-<img width="556" alt="Capture" src="https://user-images.githubusercontent.com/19508013/159632247-683da042-dd67-4615-b26d-81ed952f53e3.PNG">
+![CERTIFICATE_LANDING_PAGE_TG58RPJKTBB9](https://user-images.githubusercontent.com/19508013/159632614-12e67ed3-5527-4a35-b9e3-6d5460f80cf4.jpeg)
