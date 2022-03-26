@@ -18,7 +18,3 @@ Shawna also demonstrated her ability to mentor a newer data scientist on the pro
 Shawna is a great asset to our project team and I encourage Shawna to continue her great work!" - Yeonjoo Kim (Accenture New York City Technology Manager)
 
 ![203598188_1121816651643809_6098019265410920860_n](https://user-images.githubusercontent.com/19508013/132880888-f6fcf3fd-0a60-4a29-a69f-5ba1dc354613.jpeg)
-
-![image](https://user-images.githubusercontent.com/19508013/152852341-1def1c3b-7565-41f4-a6a8-028fe3e6aa46.png)
-
-![CERTIFICATE_LANDING_PAGE_TG58RPJKTBB9](https://user-images.githubusercontent.com/19508013/159632614-12e67ed3-5527-4a35-b9e3-6d5460f80cf4.jpeg)
