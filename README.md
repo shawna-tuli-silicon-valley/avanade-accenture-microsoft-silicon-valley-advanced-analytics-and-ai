@@ -8,9 +8,9 @@ Avanade is the Accenture Microsoft Business Group with parents Accenture and Mic
 2. Accenture Applied Intelligence Technical Contact for UCI's Data Science Capstone
 3. Harvard Business Review Advisory Council
 
-∙ [Kellogg Executive Education Certificate in Leading with Analytics and Artificial Intelligence](https://execedcertificate.kellogg.northwestern.edu/308a9e71-d504-4194-9c74-22667c48e450#gs.utv39r)
+∙ [Shawna Tuli Kellogg Executive Education Certificate in Leading with Analytics and Artificial Intelligence](https://execedcertificate.kellogg.northwestern.edu/308a9e71-d504-4194-9c74-22667c48e450#gs.utv39r)
 
-∙ [UC Davis Certificate in SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/TG58RPJKTBB9?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
+∙ [Shawna Tuli UC Davis Certificate in SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/TG58RPJKTBB9?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 
 "Shawna has done a great job as the data scientist on the project. She is the first data scientist to join our project and has been leading our AI workstream to deliver an initial output to our AI proof of concept.
 Soon after joining, Shawna quickly understood the overall business objectives and familiarized herself with various datasets we are working with. It was impressive to see her breadth of knowledge and skill sets in the AI space. She led each of the steps required to reach our final output, starting from performing EDAs on the datasets, defining business logic and rules to choose the right model, and explaining the outputs and results to non-data scientists.
