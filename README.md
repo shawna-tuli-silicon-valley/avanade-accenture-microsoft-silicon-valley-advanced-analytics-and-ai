@@ -4,9 +4,10 @@ I am a Consultant in Advanced Analytics at Avanade in Silicon Valley.
 
 Avanade is the Accenture Microsoft Business Group with parents Accenture and Microsoft.
 
-1. Northern California Community Co-Captain for the South Bay Area
-2. Accenture Applied Intelligence Technical Contact for UCI's Data Science Capstone
-3. Harvard Business Review Advisory Council
+1. Senior Data Analyst at Google
+2. Northern California Community Co-Captain for the South Bay Area
+3. Accenture Applied Intelligence Technical Contact for UCI's Data Science Capstone
+4. Harvard Business Review Advisory Council
 
 ∙ [Shawna Tuli Kellogg Executive Education Certificate in Leading with Analytics and Artificial Intelligence](https://execedcertificate.kellogg.northwestern.edu/308a9e71-d504-4194-9c74-22667c48e450#gs.utv39r)
 
