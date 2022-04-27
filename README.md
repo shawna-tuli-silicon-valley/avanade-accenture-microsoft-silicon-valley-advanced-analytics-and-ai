@@ -4,7 +4,7 @@ I am a Consultant in Advanced Analytics at Avanade in Silicon Valley.
 
 Avanade is the Accenture Microsoft Business Group with parents Accenture and Microsoft.
 
-1. Senior Data Analyst at Google
+1. Senior Data Analyst on Google Cloud
 2. Northern California Community Co-Captain for the South Bay Area
 3. Accenture Applied Intelligence Technical Contact for UCI's Data Science Capstone
 
