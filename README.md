@@ -8,8 +8,6 @@ Avanade is the Accenture Microsoft Business Group with parents Accenture and Mic
 2. Northern California Community Co-Captain for the South Bay Area
 3. Accenture Applied Intelligence Technical Contact for UCI's Data Science Capstone
 
-∙ [Shawna Tuli Kellogg Executive Education Certificate in Leading with Analytics and Artificial Intelligence](https://execedcertificate.kellogg.northwestern.edu/308a9e71-d504-4194-9c74-22667c48e450#gs.utv39r)
-
 ∙ [Shawna Tuli UC Davis Certificate in SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/TG58RPJKTBB9?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 
 "Shawna has done a great job as the data scientist on the project. She is the first data scientist to join our project and has been leading our AI workstream to deliver an initial output to our AI proof of concept.
