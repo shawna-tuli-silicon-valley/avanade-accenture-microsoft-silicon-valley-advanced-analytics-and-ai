@@ -7,6 +7,7 @@ Avanade is the Accenture Microsoft Business Group with parents Accenture and Mic
 1. Senior Data Analyst on Google Cloud
 2. Northern California Community Co-Captain for the South Bay Area
 3. Accenture Applied Intelligence Technical Contact for UCI's Data Science Capstone
+4. Accenture UCI Relationship Team
 
 ∙ [Shawna Tuli UC Davis Certificate in SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/TG58RPJKTBB9?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 
