@@ -1,8 +1,6 @@
-# Avanade Advanced Analytics 🧡💜
+![share-avanade-logo](https://user-images.githubusercontent.com/19508013/165650731-5b466aff-f2f9-4f61-94be-dd4294929951.jpg)
 
-I am a Consultant in Advanced Analytics at Avanade in Silicon Valley.
-
-Avanade is the Accenture Microsoft Business Group with parents Accenture and Microsoft.
+I am a Consultant in Advanced Analytics at Avanade in Silicon Valley. Avanade is the Accenture Microsoft Business Group with parents Accenture and Microsoft.
 
 1. Senior Data Analyst on Google Cloud
 2. Northern California Community Co-Captain for the South Bay Area
