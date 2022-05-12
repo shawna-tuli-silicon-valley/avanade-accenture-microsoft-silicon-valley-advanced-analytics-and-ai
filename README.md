@@ -2,9 +2,9 @@
 
 I am a Consultant in Advanced Analytics at Avanade in Silicon Valley. I am leading, strategizing, analyzing, and predicting via advanced analytics and AI at Fortune 100 tech companies in Silicon Valley. Avanade is the Accenture Microsoft Business Group with parents Accenture and Microsoft.
 
-1. Senior Data Analyst on Google Cloud
-2. Northern California Community Co-Captain for the South Bay Area
-3. Accenture Applied Intelligence Technical Contact for UCI's Data Science Capstone
+1. Senior Data Analyst at Google Cloud Engineering
+2. Accenture Applied Intelligence Technical Program Manager for UCI's Data Science Capstone on Predicting Risk of Type 2 Diabetes with AI in California
+3. Accenture Applied Intelligence Technical Program Manager II
 4. Accenture UCI Relationship Team
 
 ∙ [Shawna Tuli UC Davis Certificate in SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/TG58RPJKTBB9?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
