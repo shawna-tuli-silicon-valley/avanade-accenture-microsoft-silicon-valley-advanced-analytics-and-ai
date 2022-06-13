@@ -9,6 +9,7 @@ I am a Consultant in Advanced Analytics at Avanade in Silicon Valley. I am leadi
 1. Senior Data Analyst at Google Cloud Engineering
 2. Accenture Applied Intelligence Technical Program Manager for UCI and TIME on Sustainability and AI at SMBs
 3. Accenture UCI Relationship Team
+4. COE Liaison
 
 ∙ [Shawna Tuli UC Davis Certificate in SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/TG58RPJKTBB9?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 
