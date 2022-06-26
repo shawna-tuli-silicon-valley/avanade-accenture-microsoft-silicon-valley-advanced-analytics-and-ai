@@ -12,6 +12,7 @@ I am a Consultant in Advanced Analytics at Avanade in Silicon Valley. I am leadi
 4. Avanade Center of Excellence Liaison for Advanced Analytics
 
 ∙ [Shawna Tuli UC Davis Certificate in SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/TG58RPJKTBB9?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
+∙ [Shawna Tuli Google Certificate in Project Management]
 
 "It is an honor to provide feedback for Shawna on her above and beyond contribution to UC Irvine Capstone program which is part of Accenture/Avanade university outreach program. 
 UC Irvine Outreach Program started in 2021 and it was established to form a close partnership with a local university for recruiting top talents, working with students on projects which impacts our community and clients and amplify our brand awareness. 
