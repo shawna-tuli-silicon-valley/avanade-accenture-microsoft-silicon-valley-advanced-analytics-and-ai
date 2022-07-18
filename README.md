@@ -28,6 +28,8 @@ I am a Consultant in Advanced Analytics at Avanade in Silicon Valley. I am leadi
 
 ∙ Shawna Tuli Google Certificate in Capstone: Applying Project Management in the Real World
 
+"Shawna has that rare blend of technical development and execution skills. She has demonstrated over her career the ability to develop deep research initiatives in the Data & AI space and then turn those ideas into action with a right execution. In particular, she has developed deep expertise around analytical solutions, with a focus on recommendation and propensity modeling. What's more Shawna is a hard working and a great communicator." - Rani Aknapuram (Avanade Group Manager, Data & AI)
+
 "It is an honor to provide feedback for Shawna on her above and beyond contribution to UC Irvine Capstone program which is part of Accenture/Avanade university outreach program. 
 UC Irvine Outreach Program started in 2021 and it was established to form a close partnership with a local university for recruiting top talents, working with students on projects which impacts our community and clients and amplify our brand awareness. 
 Shawna is leading Capstone Program engagement. Capstone courses give UC Irvine students the opportunity to put their skills to the test by letting them work with Accenture/Avanade to solve real-world problems. 
