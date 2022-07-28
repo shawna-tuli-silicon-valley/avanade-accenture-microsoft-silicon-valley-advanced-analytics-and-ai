@@ -28,6 +28,8 @@ I am a Consultant in Advanced Analytics at Avanade in Silicon Valley. I am leadi
 
 ∙ Shawna Tuli Google Certificate in Capstone: Applying Project Management in the Real World
 
+"Shawna brings great energy, thought and dedication to her work. She has a wide range of skills enabling her to contribute in different ways and be a high performer in various roles. Her strong work ethic makes her highly valuable," - Manish Dasaur (Accenture Chief Data & Analytics Officer)
+
 "I had the pleasure of working with Shawna while she was one of the key members from Accenture / Avanade team leading the students from University of California at Irvine in the Capstone course. During this course, leaders AI / Data Analytics from industry team up with student to utilize AI in addressing some of society challenges. 
 Shawna led a data exploration and model development for predicting diabetes for different demographics in the state and helped build research-based credential.
 Shawna led the team and did a great job - she is a true "Teacher at Heart" working well by helping and guiding the students vs. doing all the work and also "managed up" well when working with the professors. 
