@@ -20,7 +20,7 @@ I am a Consultant in Advanced Analytics at Avanade in Silicon Valley. I am leadi
 
 ∙ [Shawna Tuli Google Certificate in Project Initiation: Starting a Successful Project](https://coursera.org/share/1b42e3792fc6b76eed6c61ae1f0ad8ba)
 
-∙ Shawna Tuli Google Certificate in Project Planning: Putting It All Together
+∙ [Shawna Tuli Google Certificate in Project Planning: Putting It All Together](https://www.coursera.org/learn/project-planning-google/home/week/2?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta)
 
 ∙ Shawna Tuli Google Certificate in Project Execution: Running the Project
 
