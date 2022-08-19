@@ -24,7 +24,7 @@ I am a Consultant in Advanced Analytics at Avanade in Silicon Valley. I am leadi
 
 ∙ Shawna Tuli Google Certificate in Project Execution: Running the Project
 
-∙ Shawna Tuli Google Certificate in Agile Project Management
+∙ [Shawna Tuli Google Certificate in Agile Project Management](https://www.coursera.org/learn/agile-project-management/home/week/1)
 
 ∙ Shawna Tuli Google Certificate in Capstone: Applying Project Management in the Real World
 
