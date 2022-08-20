@@ -18,13 +18,13 @@ I am a Consultant in Advanced Analytics at Avanade in Silicon Valley. I am leadi
 
 ∙ [Shawna Tuli Google Certificate in Foundations of Project Management](https://www.coursera.org/account/accomplishments/verify/2ELPWHCAP9FY)
 
-∙ [Shawna Tuli Google Certificate in Project Initiation: Starting a Successful Project](https://coursera.org/share/1b42e3792fc6b76eed6c61ae1f0ad8ba)
+∙ [Shawna Tuli Google Certificate in Project Initiation: Starting a Successful Project](https://www.coursera.org/account/accomplishments/verify/XAQU6CTVCW9C)
 
-∙ [Shawna Tuli Google Certificate in Project Planning: Putting It All Together](https://www.coursera.org/learn/project-planning-google/home/week/2?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta)
+∙ [Shawna Tuli Google Certificate in Project Planning: Putting It All Together](https://www.coursera.org/account/accomplishments/verify/9AYFHD7Q7CVX)
 
 ∙ [Shawna Tuli Google Certificate in Project Execution: Running the Project](https://www.coursera.org/account/accomplishments/verify/EBRL6GMXYDCF)
 
-∙ [Shawna Tuli Google Certificate in Agile Project Management](https://www.coursera.org/learn/agile-project-management/home/week/1)
+∙ [Shawna Tuli Google Certificate in Agile Project Management](https://www.coursera.org/account/accomplishments/verify/DPB6VLBUUKLE)
 
 ∙ Shawna Tuli Google Certificate in Capstone: Applying Project Management in the Real World
 
