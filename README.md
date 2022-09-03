@@ -6,7 +6,7 @@
 
 I am a Consultant in Advanced Analytics at Avanade in Silicon Valley. I am leading, strategizing, analyzing, and predicting via advanced analytics and AI at Fortune 100 tech companies in Silicon Valley. Avanade is the Accenture Microsoft Business Group with parents Accenture and Microsoft.
 
-1. Technical Program Manager/Senior Data Analyst at Google Cloud Platform Engineering Efficiency Analytics
+1. Senior Data Analyst/Techincal Program Manager at Google Cloud Platform Engineering Efficiency Analytics
 2. Accenture Applied Intelligence Technical Program Manager for UCI's Data Science Capstone
 3. Accenture Applied Intelligence Technical Program Manager for UCI and TIME on Sustainability and AI at SMBs
 4. Accenture UCI Relationship Team
