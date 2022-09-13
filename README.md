@@ -31,6 +31,7 @@ Certifications:
 ∙ Shawna Tuli Google Certificate in Capstone: Applying Project Management in the Real World
 
 ∙ Shawna Tuli Stanford University Machine Learning
+_________________________________________________________________________________________________________________________________________________________
 
 "Shawna is a talented and enthusiastic mentor that constantly seeks to develop the best in those she interacts with. She helped me throughout my recruiting, onboarding and internship experience with Accenture, and throughout this entire period, she was honest, insightful, and generous in providing me useful information and contacts for consultants who share my interests. With her guidance, I developed a comphrensive understanding of Accenture and Avanade, and she helped me evaluate different opportunities available to me. I am extremely grateful to have had her throughout this process, and I look forward to our future correspondence." - Cameron Wehr (Incoming Accenture New York City Technology Development Program Analyst)
 
