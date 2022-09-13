@@ -12,8 +12,6 @@ I am a Consultant in Advanced Analytics at Avanade in Silicon Valley. I am leadi
 4. Accenture UCI Relationship Team
 5. Avanade Center of Excellence Liaison for Advanced Analytics
 
-Certifications:
-
 ∙ [Shawna Tuli Kellogg Executive Education Certificate in Leading with Analytics and Artificial Intelligence](https://execedcertificate.kellogg.northwestern.edu/308a9e71-d504-4194-9c74-22667c48e450#gs.utv39r)
 
 ∙ [Shawna Tuli UC Davis Certificate in SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/TG58RPJKTBB9?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
