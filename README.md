@@ -5,7 +5,7 @@
 
 I was a Consultant in Advanced Analytics at Avanade in Silicon Valley. I led, strategized, analyzed, and predicted via advanced analytics and AI at Fortune 100 tech companies in Silicon Valley. Avanade is the Accenture Microsoft Business Group with parents Accenture and Microsoft.
 
-My clients were Google, Applied Materials, H&R Block, Bill & Melinda Gates Foundation, and Starbucks Coffee.
+My clients were Google, Accenture CIO, Applied Materials, H&R Block, Bill & Melinda Gates Foundation, and Starbucks Coffee.
 
 ∙ [Shawna Tuli 2021 Kellogg Executive Education Certificate in Leading with Analytics and Artificial Intelligence](https://execedcertificate.kellogg.northwestern.edu/308a9e71-d504-4194-9c74-22667c48e450#gs.utv39r)
 
