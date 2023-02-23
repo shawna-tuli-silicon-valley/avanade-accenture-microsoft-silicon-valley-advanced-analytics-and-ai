@@ -70,4 +70,6 @@ Shawna is a great asset to our project team and I encourage Shawna to continue h
 
 "Shawna was assigned to me as my mentor through the Avanade Scholars program. We talked about our interests and developed a relationship over our passions in technology. She connected me with various professionals in the cyber security industry and helped me get an internship at Avanade in security consulting. Shawna continues to mentor me and provide me advice both in my career and in my personal life. She truly is eager to share her knowledge and wisdom with other people, making her an amazing mentor." - Karina Rivera (Avanade Los Angeles Security Consulting Intern and Avanade Scholar)
 
+![169673888-b6d6cc3c-517c-41b1-9396-3a8da7b2e901](https://user-images.githubusercontent.com/19508013/221004636-a9f4ab0d-27b9-48de-ac02-62c20d3d559a.jpg)
+
 ![203598188_1121816651643809_6098019265410920860_n](https://user-images.githubusercontent.com/19508013/132880888-f6fcf3fd-0a60-4a29-a69f-5ba1dc354613.jpeg)
