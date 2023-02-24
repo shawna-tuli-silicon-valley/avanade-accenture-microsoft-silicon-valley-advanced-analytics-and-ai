@@ -23,7 +23,7 @@ My clients were Google, Accenture CIO, Applied Materials, H&R Block, Bill & Meli
 
 ∙ [Shawna Tuli 2022 Google Certificate in Project Planning: Putting It All Together](https://www.coursera.org/account/accomplishments/verify/9AYFHD7Q7CVX)
 
-∙ [Shawna Tuli 2022 Google Certificate in Project Initiation: Starting a Successful Project (https://www.coursera.org/account/accomplishments/verify/XAQU6CTVCW9C)
+∙ [Shawna Tuli 2022 Google Certificate in Project Initiation: Starting a Successful Project](https://www.coursera.org/account/accomplishments/verify/XAQU6CTVCW9C)
 
 ∙ [Shawna Tuli 2022 Google Certificate in Foundations of Project Management](https://www.coursera.org/account/accomplishments/verify/2ELPWHCAP9FY)
 
