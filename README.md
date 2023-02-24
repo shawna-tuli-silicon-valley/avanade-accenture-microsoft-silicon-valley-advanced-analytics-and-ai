@@ -26,6 +26,8 @@ My clients were Google, Accenture CIO, Applied Materials, H&R Block, Bill & Meli
 ∙ Shawna Tuli 2022 Google Certificate in Google Project Management: Professional Certificate
 
 ∙ [Shawna Tuli 2022 Stanford University Certificate in Machine Learning](https://www.coursera.org/account/accomplishments/verify/47XPJRBC4F5C)
+
+∙ [Shawna Tuli 2020 University of California, Irvine Bachelor of Science in Data Science](https://commencement.uci.edu/files/2020%20Program%20V11-web.pdf)
 _________________________________________________________________________________________________________________________________________________________
 
 “Shawna is working at Google for our team as a Sr. Consultant from Accenture. Her work always went above and beyond. She has a knack for providing clear data insight to help make critical business decisions. Her presentation style is always easy to understand and digest. Our team continues to work with her for ongoing projects and she keeps on delivering over and above expectations.” - Abhishek Lal (Google Technical Program Manager)
