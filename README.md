@@ -3,9 +3,9 @@
 ![acn_ai](https://user-images.githubusercontent.com/19508013/171912919-7a3e012d-9daa-4758-9e2e-fbed1e74e58c.png)
 ![microsoft](https://user-images.githubusercontent.com/19508013/192878650-62e0ee46-e82d-44ed-8d76-407d5f0df327.jpg)
 
-I was a Consultant in Advanced Analytics at Avanade in Silicon Valley. I led engineering and business teams, strategized, analyzed, and predicted via advanced analytics and AI at Fortune 100 tech companies in Silicon Valley. I also remotely managed 3 UCI ICS Data Science seniors on predicting risk of type 2 diabetes with AI in Python in California & published in BMJ Research & Care. Additionally, I am on a team of 3 UCI alumni from Accenture Chief Data & Analytics Officer Manish Dasaur to build this relationship. Avanade is the Accenture Microsoft Business Group with parents Accenture and Microsoft.
+I was a Consultant in Advanced Analytics at Avanade in Silicon Valley. I led engineering and business teams comprised of data scientists, sofware engineers, & management consultants, strategized, analyzed, and predicted via advanced analytics and AI at Fortune 100 tech companies in Silicon Valley. I also remotely managed 3 UCI ICS Data Science seniors on predicting risk of type 2 diabetes with AI in Python in California & published in BMJ Research & Care. Additionally, I am on a team of 3 UCI alumni from Accenture Chief Data & Analytics Officer Manish Dasaur to build this relationship. Avanade is the Accenture Microsoft Business Group with parents Accenture and Microsoft.
 
-My clients were Google Play Partnerships, Google Cloud Platform Efficiency, Google One Marketing, Accenture CIO, Applied Materials, Starbucks Coffee, Bill and Melinda Gates Foundation, and H&R Block.
+My clients were Google Play Partnerships, Google Cloud Platform Efficiency, Google One Marketing, Accenture CIO, Applied Materials, Starbucks Coffee, Bill & Melinda Gates Foundation, & H&R Block.
 
 ∙ [Shawna Tuli 2022 Stanford University Certificate in Machine Learning](https://www.coursera.org/account/accomplishments/verify/47XPJRBC4F5C)
 
