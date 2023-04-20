@@ -5,7 +5,7 @@
 
 I was a Consultant in Advanced Analytics at Avanade in Silicon Valley. I led engineering & business teams comprised of data scientists, software engineers, & management consultants, strategized, analyzed, & predicted via advanced analytics & AI at Fortune 100 tech companies in Silicon Valley. I also remotely managed 3 University of California, Irvine Information & Computer Sciences Data Science seniors on predicting risk of type 2 diabetes with AI in Python in California & published in BMJ Research & Care. Additionally, I am remotely on a team of 3 University of California, Irvine alumni from Accenture Chief Data & Analytics Officer Manish Dasaur to build this relationship. Avanade is the Accenture Microsoft Business Group with parents Accenture & Microsoft.
 
-My clients were Google Play Partnerships, Google Cloud Platform Efficiency, Google One Marketing, Accenture CIO, Applied Materials, Starbucks Coffee, Bill & Melinda Gates Foundation, & H&R Block.
+My clients were Google Play, Google Cloud Platform, Google One, Accenture CIO, Applied Materials, Starbucks Coffee, Bill & Melinda Gates Foundation, & H&R Block.
 
 ∙ [Shawna Tuli 2022 Stanford University Certificate in Machine Learning](https://www.coursera.org/account/accomplishments/verify/47XPJRBC4F5C)
 
