@@ -1,7 +1,7 @@
 ![share-avanade-logo](https://user-images.githubusercontent.com/19508013/165650731-5b466aff-f2f9-4f61-94be-dd4294929951.jpg)
 ![acn](https://user-images.githubusercontent.com/19508013/171912894-f18aa54b-f9f8-4568-8ce8-2153b0b7db48.png)
 ![acn_ai](https://user-images.githubusercontent.com/19508013/171912919-7a3e012d-9daa-4758-9e2e-fbed1e74e58c.png)
-![microsoft](https://user-images.githubusercontent.com/19508013/192878650-62e0ee46-e82d-44ed-8d76-407d5f0df327.jpg)
+![8867 Microsoft_5F00_Logo_2D00_for_2D00_screen](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-advanced-analytics-and-ai/assets/19508013/b5e24a03-d801-4453-a7f4-9f5223910b80)
 
 I was a Consultant in Advanced Analytics at Avanade in Silicon Valley. I led engineering and business teams comprised of data scientists, software engineers, and management consultants, strategized, analyzed, and predicted via advanced analytics & AI at Fortune 100 tech companies in Silicon Valley. I also remotely managed 3 University of California, Irvine Information & Computer Sciences Data Science seniors on predicting risk of type 2 diabetes with AI in Python in California and published in BMJ Research & Care. Additionally, I am remotely on a team of 3 University of California, Irvine alumni from Accenture Chief Data & Analytics Officer Manish Dasaur to build this relationship. Avanade is the Accenture Microsoft Business Group with parents Accenture and Microsoft.
 
