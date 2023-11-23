@@ -3,35 +3,6 @@
 ![acn_ai](https://user-images.githubusercontent.com/19508013/171912919-7a3e012d-9daa-4758-9e2e-fbed1e74e58c.png)
 ![8867 Microsoft_5F00_Logo_2D00_for_2D00_screen](https://github.com/shawna-tuli-silicon-valley/avanade-accenture-microsoft-silicon-valley-advanced-analytics-and-ai/assets/19508013/b5e24a03-d801-4453-a7f4-9f5223910b80)
 
-I was a Consultant in Advanced Analytics at Avanade in Silicon Valley. I led engineering and business teams comprised of data scientists, software engineers, and management consultants, strategized, analyzed, and predicted via advanced analytics and AI at Fortune 100 tech companies in Silicon Valley. I also remotely managed 3 University of California, Irvine Information & Computer Sciences Data Science seniors on predicting risk of type 2 diabetes with AI in Python in California, published in BMJ Open Diabetes Research & Care, and was nominated for the Accenture V360 Awards in Innovation. Additionally, I am remotely on a team of 3 University of California, Irvine alumni from Accenture Chief Data & Analytics Officer Manish Dasaur to build this relationship. Avanade is the Accenture Microsoft Business Group with parents Accenture and Microsoft.
-
-My clients were Google Play, Google Cloud, Google One, Accenture CIO, Applied Materials, Starbucks Coffee, Bill & Melinda Gates Foundation, and H&R Block.
-
-∙ [Shawna Tuli 2022 Stanford University Certificate in Machine Learning](https://www.coursera.org/account/accomplishments/verify/47XPJRBC4F5C)
-
-∙ [Shawna Tuli 2021 Kellogg Executive Education Certificate in Leading with Analytics and Artificial Intelligence](https://execedcertificate.kellogg.northwestern.edu/308a9e71-d504-4194-9c74-22667c48e450#gs.utv39r)
-
-∙ [Shawna Tuli 2020 University of California, Irvine Bachelor of Science in Data Science](https://commencement.uci.edu/files/2020%20Program%20V11-web.pdf)
-
-∙ Shawna Tuli 2022 Google Certificate in Google Project Management: Professional Certificate
-
-∙ Shawna Tuli 2022 Google Certificate in Capstone: Applying Project Management in the Real World
-
-∙ [Shawna Tuli 2022 Google Certificate in Agile Project Management](https://www.coursera.org/account/accomplishments/verify/DPB6VLBUUKLE)
-
-∙ [Shawna Tuli 2022 Google Certificate in Project Execution: Running the Project](https://www.coursera.org/account/accomplishments/verify/EBRL6GMXYDCF)
-
-∙ [Shawna Tuli 2022 Google Certificate in Project Planning: Putting It All Together](https://www.coursera.org/account/accomplishments/verify/9AYFHD7Q7CVX)
-
-∙ [Shawna Tuli 2022 Google Certificate in Project Initiation: Starting a Successful Project](https://www.coursera.org/account/accomplishments/verify/XAQU6CTVCW9C)
-
-∙ [Shawna Tuli 2022 Google Certificate in Foundations of Project Management](https://www.coursera.org/account/accomplishments/verify/2ELPWHCAP9FY)
-
-∙ [Shawna Tuli 2022 University of California, Davis Certificate in SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/TG58RPJKTBB9?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
-
-• [Shawna Tuli 2022 Wharton Certificate in Introduction to Marketing](https://coursera.org/share/3ec7fa70ecda90ca7a86f6e7e1e50a67)
-_________________________________________________________________________________________________________________________________________________________
-
 “Shawna is working at Google for our team as a Sr. Consultant from Accenture. Her work always went above and beyond. She has a knack for providing clear data insight to help make critical business decisions. Her presentation style is always easy to understand and digest. Our team continues to work with her for ongoing projects and she keeps on delivering over and above expectations.” - Abhishek Lal (Google Sunnyvale Technical Program Manager, Google Cloud)
 
 "Shawna is a talented and enthusiastic mentor that constantly seeks to develop the best in those she interacts with. She helped me throughout my recruiting, onboarding and internship experience with Accenture, and throughout this entire period, she was honest, insightful, and generous in providing me useful information and contacts for consultants who share my interests. With her guidance, I developed a comprehensive understanding of Accenture and Avanade, and she helped me evaluate different opportunities available to me. I am extremely grateful to have had her throughout this process, and I look forward to our future correspondence." - Cameron Wehr (Incoming Accenture New York City Technology Development Program Analyst)
